@@ -1,0 +1,1 @@
+// basics of typescript, why even use it
